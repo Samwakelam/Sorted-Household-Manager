@@ -109,6 +109,8 @@ We have used:
 
 ## Final Project 
 
+[View the deployment](https://sorted-household-manager.herokuapp.com/)
+
 ![Screenshot1](./client/public/assets/screenshothome.png)
 ![Screenshot2](./client/public/assets/screenshotabout.png)
 ![Screenshot3](./client/public/assets/screenshotinstructions.png)
